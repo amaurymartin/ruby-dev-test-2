@@ -1,11 +1,11 @@
-fijacion:
-  name: Fijación Oral, Vol. 1
-  player: shakira
+collision_course:
+  name: Collision Course
+  players: jay_z, linkin_park
 
-fixation:
-  name: Oral Fixation, Vol. 2
-  player: shakira
+the_black_album:
+  name: The Black Album
+  players: jay_z
 
-fixation:
-  name: She Wolf
-  player: shakira
+meteora:
+  name: Meteora
+  players: linkin_park
